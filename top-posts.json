@@ -1,0 +1,554 @@
+{
+    "1": {
+      "link": "/twentysidedtale/?p=17201",
+      "title": "Spoiler Warning:<br>Mass Effect",
+      "imageLink": "/resources/images/min/min-thumb_sw_masseffect.jpg",
+      "summary": "An awkward Let's Play of the Original Mass Effect, before we knew what we were doing. Enjoy terrible audio and long awkward pauses."
+    },
+    "2": {"link": "/twentysidedtale/?p=18242",
+         "title": "Spoiler Warning:<br>Fallout 3",
+         "imageLink": "/resources/images/min/min-thumb_sw_fallout3.jpg",
+         "summary": "A long-form Let's Play of a classic that's probably overrated, and certainly dumber than it needed to be."
+    },
+    "3": {"link": "/twentysidedtale/?p=19697",
+         "title": "Spoiler Warning:<br>BioShock",
+         "imageLink": "/resources/images/min/min-thumb_sw_bioshock.jpg",
+         "summary": "A confusing game that's really smart for a shooter, but kind of dumb compared to its RPG-focused forebears."
+    },
+    "4": {"link": "/twentysidedtale/?p=9952",
+        "title": "Spoiler Warning:<br>Mass Effect 2",
+         "imageLink": "/resources/images/min/min-thumb_sw_masseffect2.jpg",
+         "summary": "What happens when you take a smart game with bland mechanics and turn it into a bland game with servicible mechanics?"
+    },
+    "5": {"link": "/twentysidedtale/?p=11281",
+        "title": "Spoiler Warning:<br>Fallout New Vegas",
+         "imageLink": "/resources/images/min/min-thumb_sw_newvegas.jpg",
+         "summary": "At last, a game that merges the dark humor and depth of Fallout 1 with the modern gameplay of Fallout 3! Too bad it's so buggy."
+    },
+    "6": {"link": "/twentysidedtale/?p=13405",
+        "title": "Spoiler Warning:<br>Assassins Creed 2",
+         "imageLink": "/resources/images/min/min-thumb_sw_ac2.jpg",
+         "summary": "Ubisoft tried to pass their horrendous Mary Sue / Da Vinci fanfiction off as an Assassins Creed. Sadly, they got away with it."
+    },
+    "7": {"link": "/twentysidedtale/?p=14740",
+        "title": "Spoiler Warning:<br>Deus Ex:Human Revolution",
+         "imageLink": "/resources/images/min/min-thumb_sw_dxhr.jpg",
+         "summary": "Is this a masterful improvement on modern shooters, or a dumbed-down bastardization of its predecessor? Can it be both?"
+    },
+    "8": {"link": "/twentysidedtale/?p=15724",
+        "title": "Spoiler Warning:<br>Alan Wake",
+         "imageLink": "/resources/images/min/min-thumb_sw_alanwake.jpg",
+         "summary": "This game was a critical darling before release, so what happened that prevented it from resonating with audiences?"
+    },
+    "9": {"link": "/twentysidedtale/?p=16959",
+        "title": "Spoiler Warning:<br>Mass Effect 3",
+         "imageLink": "/resources/images/min/min-thumb_sw_masseffect3.jpg",
+         "summary": "Everyone was so worked up about how terrible the ending was that they overlooked how terrible everything else was. We're here to fix that."
+    },
+    "10": {"link": "/twentysidedtale/?p=17894",
+         "title": "Spoiler Warning:<br>The Walking Dead",
+         "imageLink": "/resources/images/min/min-thumb_sw_twd.jpg",
+         "summary": "This game had lots of false choice and barely any gameplay. So what made it resonate so powerfully with audiences?"
+    },
+    "11": {"link": "/twentysidedtale/?p=18896",
+        "title": "Spoiler Warning:<br>Dishonored",
+         "imageLink": "/resources/images/min/min-thumb_sw_dishonored.jpg",
+         "summary": "Part Thief, part Assassins Creed, part BioWare-style RPG. A game at once unique and yet very familiar. We're actually pretty divided on how it turned out."
+     },
+    "12": {"link": "/twentysidedtale/?p=20026",
+         "title": "Spoiler Warning:<br>Tomb Raider",
+         "imageLink": "/resources/images/min/min-thumb_sw_tombraider.jpg",
+         "summary": "We're usually pretty hard on reboots. So what did this game do that made us so happy?"
+     },
+    "13": {"link": "/twentysidedtale/?p=21327",
+         "title": "Spoiler Warning:<br>Metro 2033",
+         "imageLink": "/resources/images/min/min-thumb_sw_metro2033.jpg",
+         "summary": "A videogame adaptation of a Russian novel about living in the metro system after the world ends. Successful or not, it's completely unique among shooters."
+    },
+    "14": {"link": "/twentysidedtale/?p=22221",
+         "title": "Spoiler Warning:<br>Skyrim",
+         "imageLink": "/resources/images/min/min-thumb_sw_skyrim.jpg",
+         "summary": "The big-budget, meme- spawning, endlessly- moddable,  beloved by millions Game of the Year... sucks. (Not really.)"
+    },
+    "15": {"link": "/twentysidedtale/?p=23723",
+        "title": "Spoiler Warning:<br>Marlow Briggs",
+         "imageLink": "/resources/images/min/min-thumb_sw_marlowbriggs.jpg",
+         "summary": "This game is bonkers. It's wild, it's crazy, and it makes no sense. You have to see it to understand the silly."
+    },
+    "16": {"link": "/twentysidedtale/?p=24375",
+         "title": "Spoiler Warning:<br>The Last of Us",
+         "imageLink": "/resources/images/min/min-thumb_sw_tlou.jpg",
+         "summary": "A beautiful, masterful, heart-wrenching bit of cinema mixed with a completely rote and uninspired set of mechanics."
+    },
+    "17": {"link": "/twentysidedtale/?p=26152",
+         "title": "Spoiler Warning:<br>Hitman:Absolution",
+         "imageLink": "/resources/images/min/min-thumb_sw_absolution.jpg",
+         "summary": "This game needs to be on more 'worst of' lists. Watch our let's play to see how much stupid you can pack into one game."
+    },
+    "18": {"link": "/twentysidedtale/?p=28328",
+         "title": "Spoiler Warning:<br>KOTOR",
+         "imageLink": "/resources/images/min/min-thumb_sw_kotor.jpg",
+         "summary": "Knights of the Old Republic. It's charming, odd, glitchy, and captures the feel of classic Star Wars better than 90% of the Star Wars games out there."
+    },
+    "19": {"link": "/twentysidedtale/?p=31271",
+         "title": "Spoiler Warning:<br>SOMA",
+         "imageLink": "/resources/images/min/min-thumb_sw_soma.jpg",
+         "summary": "A game that dares to ask what it means to be alive, what it means to be human, and why should you bother trying to answer the first two questions?"
+    },
+    "20": {"link": "/twentysidedtale/?p=25472",
+         "title": "Dear Hollywood: Do a Mash Reboot",
+         "imageLink": "resources/images/min/min-thumb_mash.jpg",
+         "summary": "Since we're rebooting everything, MASH will probably come up eventually. Here are some casting suggestions."
+    },
+    "21": {"link": "/twentysidedtale/?p=111",
+        "title": "If Star Wars Was Made in 2006?",
+        "imageLink": "/resources/images/min/min-thumb_starwars2006.jpg",
+        "summary": "Imagine if the original Star Wars hadn't appeared in the 1970's, but instead was pitched to studios in 2006. How would that turn out?"
+    },
+    "21": {"link": "/twentysidedtale/?p=25156",
+        "title": "Trekrospective",
+        "imageLink": "/resources/images/min/min-thumb_trek.jpg",
+        "summary": "A look back at Star Trek, from the Original Series to the Abrams Reboot."
+    },
+    "22": {"link": "/twentysidedtale/?p=24169",
+        "title": "Top 64 Videogames",
+        "imageLink": "/resources/images/min/min-thumb_top64.jpg",
+        "summary": "Lists of 'best games ever' are dumb and annoying. But like a self-loathing hipster I made one anyway."
+    },
+    "23": {"link": "/twentysidedtale/?p=29826",
+        "title": "The Best of 2015",
+        "imageLink": "/resources/images/min/min-thumb_2015.jpg",
+        "summary": "My picks for what was important, awesome, or worth talking about in 2015."
+    },
+    "24": {"link": "/twentysidedtale/?p=25438",
+        "title": "The Best of 2014",
+        "imageLink": "/resources/images/min/min-thumb_2014.jpg",
+        "summary": "My picks for what was important, awesome, or worth talking about in 2014."
+    },
+    "25": {"link": "/twentysidedtale/?p=21860",
+        "title": "The Best of 2013",
+        "imageLink": "/resources/images/min/min-thumb_2013.jpg",
+        "summary": "My picks for what was important, awesome, or worth talking about in 2013."
+    },
+    "26": {"link": "/twentysidedtale/?p=18236",
+        "title": "The Best of 2012",
+        "imageLink": "/resources/images/min/min-thumb_2012.jpg",
+        "summary": "My picks for what was important, awesome, or worth talking about in 2012."
+    },
+    "27": {"link": "/twentysidedtale/?p=14378",
+        "title": "The Best of 2011",
+        "imageLink": "/resources/images/min/min-thumb_2011.jpg",
+        "summary": "My picks for what was important, awesome, or worth talking about in 2011."
+    },
+    "28": {"link": "https://www.youtube.com/watch?v=BiQCz2NjPR8",
+        "title": "Megatextures",
+        "imageLink": "/resources/images/min/min-thumb_rb_megatextures.jpg",
+        "summary": "A video discussing Megatexture technology. Why we needed it, what it was supposed to do, and why it maybe didn't totally work."
+    },
+    "29": {"link": "https://www.youtube.com/watch?v=HhyyUiYQolA",
+        "title": "The Biggest Game Ever",
+        "imageLink": "/resources/images/min/min-thumb_rb_fuel.jpg",
+        "summary": "How did this niche racing game make a gameworld so massive, and why is that a big deal?"
+    },
+    "30": {"link": "http://www.shamusyoung.com/twentysidedtale/?p=25721",
+        "title": "Playstation 3",
+        "imageLink": "/resources/images/min/min-thumb_rb_ps3.jpg",
+        "summary": "What was the problem with the Playstation 3 hardware and why did Sony build it that way?"
+    },
+    "31": {"link": "http://www.shamusyoung.com/twentysidedtale/?p=25833",
+        "title": "Do It Again, Stupid",
+        "imageLink": "/resources/images/min/min-thumb_rb_dias.jpg",
+        "summary": "One of the highest-rated games of all time has some of the least interesting gameplay."
+    },
+    "32": {"link": "/twentysidedtale/?p=16896",
+        "title": "Quakecon 2012 Annotated",
+        "imageLink": "/resources/images/min/min-thumb_keynote2012.jpg",
+        "summary": "An interesting but technically dense talk about gaming technology. I translate it for the non-coders."
+    },
+    "33": {"link": "/twentysidedtale/?p=26011",
+        "title": "A New Language for Games",
+        "imageLink": "/resources/images/min/min-thumb_blowlang.jpg",
+        "summary": "Developer Jon Blow proposed an entirely new programming language just for games. Here I explain what he's up to and why."
+    },
+    "34": {"link": "/twentysidedtale/?p=20649",
+        "title": "Good Robot Dev Blog",
+        "imageLink": "/resources/images/min/min-thumb_good_robot.jpg",
+        "summary": "An ongoing series where I work on making a 2D action game from scratch."
+    },
+    "35": {"link": "/twentysidedtale/?p=2940",
+        "title": "Pixel City Dev Blog",
+        "imageLink": "/resources/images/min/min-thumb_pixel_city.jpg",
+        "summary": "An attempt to make a good looking cityscape with nothing but simple tricks and a few rectangles of light."
+    },
+    "36": {"link": "/twentysidedtale/?p=15742",
+        "title": "Project Octant",
+        "imageLink": "/resources/images/min/min-thumb_octant.jpg",
+        "summary": "A programming project where I set out to make a Minecraft-style world so I can experiment with Octree data."
+    },
+    "37": {"link": "/twentysidedtale/?p=18309",
+        "title": "Linux vs. Windows",
+        "imageLink": "/resources/images/min/min-thumb_linux.jpg",
+        "summary": "Finally, the age-old debate has been settled."
+    },
+    "38": {"link": "/twentysidedtale/?p=11874",
+        "title": "Project Frontier",
+        "imageLink": "/resources/images/min/min-thumb_frontier.jpg",
+        "summary": "A programming project where I set out to make a gigantic and complex world from simple data."
+    },
+    "39": {"link": "/twentysidedtale/?p=25632",
+        "title": "Netscape 1997",
+        "imageLink": "/resources/images/min/min-thumb_netscape.jpg",
+        "summary": "What did web browsers look like 20 years ago, and what kind of crazy features did they have?"
+    },
+    "40": {"link": "/twentysidedtale/?p=9557",
+        "title": "Object-Disoriented Programming",
+        "imageLink": "/resources/images/min/min-thumb_frustrated.jpg",
+        "summary": "C++ is a wonderful language for making horrible code."
+    },
+    "41": {"link": "/twentysidedtale/?p=1636",
+        "title": "Hardware Review",
+        "imageLink": "/resources/images/min/min-thumb_hardware.jpg",
+        "summary": "So what happens when a SOFTWARE engineer tries to review hardware? This. This happens."
+    },
+    "42": {"link": "/twentysidedtale/?p=1477",
+        "title": "PC Hardware is Toast",
+        "imageLink": "/resources/images/min/min-thumb_toast.jpg",
+        "summary": "This is why shopping for graphics cards is so stupid and miserable."
+    },
+    "43": {"link": "/twentysidedtale/?p=6185",
+        "title": "MMO Population Problems",
+        "imageLink": "/resources/images/min/min-thumb_pop.jpg",
+        "summary": "Computers keep getting more powerful. So why do the population caps for massively multiplayer games stay about the same?"
+    },
+    "44": {"link": "/twentysidedtale/?p=26269",
+        "title": "The Strange Evolution of OpenGL",
+        "imageLink": "/resources/images/min/min-thumb_opengl.jpg",
+        "summary": "Sometimes software is engineered. Sometimes it grows organically. And sometimes it's thrown together seemingly at random over two decades."
+    },
+    "45": {"link": "/twentysidedtale/?p=15648",
+        "title": "Video Compression Gone Wrong",
+        "imageLink": "/resources/images/min/min-thumb_compression.jpg",
+        "summary": "How does image compression work, and why does it create those ugly spots all over some videos and not others?"
+    },
+    "46": {"link": "/twentysidedtale/?p=30811",
+        "title": "Shamus Plays LOTRO",
+        "imageLink": "/resources/images/min/min-thumb_lotro.jpg",
+        "summary": "As someone who loves Tolkein lore and despises silly MMO quests, this game left me deeply conflicted."
+    },
+    "47": {"link": "/twentysidedtale/?p=34172",
+        "title": "Shamus Plays WOW",
+        "imageLink": "/resources/images/min/min-thumb_wow.jpg",
+        "summary": "Ever wondered what's in all those quest boxes you've never bothered to read? Get ready: They're more insane than you might expect."
+    },
+    "48": {"link": "/twentysidedtale/?p=14422",
+        "title": "Skyrim Thieves Guild",
+        "imageLink": "/resources/images/min/min-thumb_thief_guild.jpg",
+        "summary": "The Thieves Guild quest in Skyrim is a vortex of disjointed plot-holes, contrivances, and nonsense."
+    },
+    "49": {"link": "/twentysidedtale/?p=2105",
+        "title": "Fable II",
+        "imageLink": "/resources/images/min/min-thumb_fable2.jpg",
+        "summary": "The plot of this game isn't just dumb, it's actively hostile to the player. This game hates you and thinks you are stupid."
+    },
+    "50": {"link": "/twentysidedtale/?p=21677",
+        "title": "Batman Arkham Origins: Over-Analysis",
+        "imageLink": "/resources/images/min/min-thumb_batmanao.jpg",
+        "summary": "A breakdown of how this game faltered when the franchise was given to a different studio."
+    },
+    "51": {"link": "/twentysidedtale/?p=5015",
+        "title": "A Star is Born",
+        "imageLink": "/resources/images/min/min-thumb_champions_online.jpg",
+        "summary": "Remember the superhero MMO from 2009? Neither does anyone else. It was dumb. So dumb I was compelled to write this."
+    },
+    "52": {"link": "/twentysidedtale/?p=1884",
+        "title": "Silent Hill Origins",
+        "imageLink": "/resources/images/min/min-thumb_silent_hill_origins.jpg",
+        "summary": "Here is a long look at a game that tries to live up to a big legacy and fails hilariously."
+    },
+    "53": {"link": "/twentysidedtale/?p=1055",
+        "title": "Best. Plot Twist. Ever.",
+        "imageLink": "/resources/images/min/min-thumb_jadeempire.jpg",
+        "summary": "Few people remember BioWare's Jade Empire, but it had a unique setting and a really well-executed plot twist."
+    },
+    "54": {"link": "/twentysidedtale/?p=13210",
+        "title": "Dead Island",
+        "imageLink": "/resources/images/min/min-thumb_deadisland.jpg",
+        "summary": "A stream-of-gameplay review of Dead Island. This game is a cavalcade of bugs and bad design choices."
+    },
+    "55": {"link": "/twentysidedtale/?p=11172",
+        "title": "Crysis 2",
+        "imageLink": "/resources/images/min/min-thumb_crysis2.jpg",
+        "summary": "Crysis 2 has basically the same plot as Half-Life 2. So why is one a classic and the other simply obnoxious and tiresome?"
+    },
+    "56": {"link": "/twentysidedtale/?p=16538",
+        "title": "Artless in Alderaan",
+        "imageLink": "/resources/images/min/min-thumb_tor.jpg",
+        "summary": "People were so worried about the boring gameplay of The Old Republic they overlooked just how boring and amateur the art is."
+    },
+    "57": {"link": "/twentysidedtale/?p=2010",
+        "title": "Tenpenny Tower",
+        "imageLink": "/resources/images/min/min-thumb_tenpenny.jpg",
+        "summary": "Bethesda felt the need to jam a morality system into Fallout 3, and they blew it. Good and evil make no sense and the moral compass points sideways."
+    },
+    "58": {"link": "/twentysidedtale/?p=237",
+        "title": "Resident Evil 4",
+        "imageLink": "/resources/images/min/min-thumb_leon.jpg",
+        "summary": "Who is this imbecile and why is he wandering around Europe unsupervised?"
+    },
+    "59": {"link": "/twentysidedtale/?p=23810",
+        "title": "Juvenile and Proud",
+        "imageLink": "/resources/images/min/min-thumb_bulletstorm.jpg",
+        "summary": "Yes, this game is loud, crude, childish, and stupid. But it it knows what it wants to be and nails it. And that's admirable."
+    },
+    "60": {"link": "/twentysidedtale/?p=16769",
+        "title": "Spec Ops: The Line",
+        "imageLink": "/resources/images/min/min-thumb_specops.jpg",
+        "summary": "A videogame that judges its audience, criticizes its genre, and hates its premise. How did this thing get made?"
+    },
+    "61": {"link": "/twentysidedtale/?p=27085",
+        "title": "Blistering Stupidity of Fallout 3",
+        "imageLink": "/resources/images/min/min-thumb_fo3.jpg",
+        "summary": "Yeah, this game is a classic. But the story is idiotic, incoherent, thematically confused, and patronizing."
+    },
+    "62": {"link": "/twentysidedtale/?p=27792",
+        "title": "Mass Effect Retrospective",
+        "imageLink": "/resources/images/min/min-thumb_masseffect.jpg",
+        "summary": "A novel-sized analysis of the Mass Effect series that explains where it all went wrong. Spoiler: It was long before the ending."
+    },
+    "63": {"link": "/twentysidedtale/?p=32341",
+        "title": "Final Fantsy X",
+        "imageLink": "/resources/images/min/min-thumb_ffx.jpg",
+        "summary": "A game about the ghost of an underwater football player who travels through time to save the world from a tick that controls kaiju satan. Really."
+    },
+    "64": {"link": "/twentysidedtale/?p=341",
+        "title": "Silent Hill 2 Plot Analysis",
+        "imageLink": "/resources/images/min/min-thumb_silent_hill_2.jpg",
+        "summary": "A long-form analysis on one of the greatest horror games ever made."
+    },
+    "65": {"link": "/twentysidedtale/?p=27382",
+        "title": "Why Batman Can",
+        "imageLink": "/resources/images/min/min-thumb_batman_cant_kill.jpg",
+        "summary": "His problem isn't that he's dumb, the problem is that he bends the world he inhabits."
+    },
+    "66": {"link": "/twentysidedtale/?p=612",
+        "title": "DM of the Rings",
+        "imageLink": "/resources/images/min/min-thumb_dmotr.jpg",
+        "summary": "Both a celebration and an evisceration of tabletop roleplaying games, by twisting the Lord of the Rings films into a D &D game."
+    },
+    "67": {"link": "http://shawntionary.com/chainmailbikini/?p=15",
+        "title": "Chainmail Bikini",
+        "imageLink": "/resources/images/min/min-thumb_chainmail_bikini.jpg",
+        "summary": "A horrible, railroading, stupid, contrived, and painfully ill-conceived roleplaying campaign. All in good fun."
+    },
+    "68": {"link": "/twentysidedtale/?p=15248",
+        "title": "The Witch Watch",
+        "imageLink": "/resources/images/min/min-thumb_witch_watch.jpg",
+        "summary": "My first REAL published book, about a guy who comes back from the dead due to a misunderstanding."
+    },
+    "69": {"link": "/shocked/",
+        "title": "Free Radical",
+        "imageLink": "/resources/images/min/min-thumb_free_radical.jpg",
+        "summary": "The product of fandom run unchecked, this novel began as a short story and grew into something of a cult hit."
+    },
+    "70": {"link": "http://www.escapistmagazine.com/articles/view/comics/stolen-pixels",
+        "title": "Stolen Pixels",
+        "imageLink": "/resources/images/min/min-thumb_stolen_pixels.jpg",
+        "summary": "A screencap comic that poked fun at videogames and the industry. The comic has ended, but there's plenty of archives for you to binge on."
+    },
+    "71": {"link": "/twentysidedtale/?p=18952",
+        "title": "Twelve Years",
+        "imageLink": "/resources/images/min/min-thumb_twelve_year_mistake.jpg",
+        "summary": "Even allegedly smart people can make life-changing blunders that seem very, very obvious in retrospect."
+    },
+    "72": {"link": "/twentysidedtale/?p=764",
+        "title": "Seven Springs",
+        "imageLink": "/resources/images/min/min-thumb_seven_springs.jpg",
+        "summary": "The true story of three strange days in 1989, when the last months of my adolescence ran out and the first few sparks of adulthood appeared."
+    },
+    "73": {"link": "/twentysidedtale/?p=12687",
+        "title": "Autoblography",
+        "imageLink": "/resources/images/min/min-thumb_me.jpg",
+        "summary": "The story of me. If you're looking for a picture of what it was like growing up in the seventies, then this is for you."
+    },
+    "74": {"link": "/twentysidedtale/?p=23227",
+        "title": "Patreon!",
+        "imageLink": "/resources/images/min/min-thumb_patreon.jpg",
+        "summary": "Why Google sucks, and what made me switch to crowdfunding for this site."
+    },
+    "75": {"link": "/twentysidedtale/?p=31891",
+        "title": "The No Politics Rule",
+        "imageLink": "/resources/images/min/min-thumb_politics.jpg",
+        "summary": "Here are 6 reasons why I forbid political discussions on this site. #4 will amaze you. Or not."
+    },
+    "76": {"link": "/twentysidedtale/?p=19709",
+        "title": "Philosophy of Moderation",
+        "imageLink": "/resources/images/min/min-thumb_rage.jpg",
+        "summary": "The comments on most sites are a sewer of hate, because we're moderating with the wrong goals in mind."
+    },
+    "77": {"link": "/twentysidedtale/?p=568",
+        "title": "Good to be the King?",
+        "imageLink": "/resources/images/min/min-thumb_king.jpg",
+        "summary": "Which would you rather be: A king in the middle ages, or a lower-income laborer in the 21st century?"
+    },
+    "78": {"link": "/twentysidedtale/?p=1247",
+        "title": "The Middle Ages",
+        "imageLink": "/resources/images/min/min-thumb_dead.jpg",
+        "summary": "Would you have survived in the middle ages?"
+    },
+    "79": {"link": "/twentysidedtale/?p=17939",
+        "title": "Overthinking Zombies",
+        "imageLink": "/resources/images/min/min-thumb_zombies.jpg",
+        "summary": "Let's ruin everyone's fun by listing all the ways in which zombies can't work, couldn't happen, and don't make sense."
+    },
+    "80": {"link": "/twentysidedtale/?p=23652",
+        "title": "Internet News is All Wrong",
+        "imageLink": "/resources/images/min/min-thumb_news.jpg",
+        "summary": "Why is internet news so bad, why do people prefer celebrity fluff, and how could it be made better?"
+    },
+    "81": {"link": "/twentysidedtale/?p=1688",
+        "title": "The Truth About Piracy",
+        "imageLink": "/resources/images/min/min-thumb_pirates.jpg",
+        "summary": "What are publishers doing to fight piracy and why is it all wrong?"
+    },
+    "82": {"link": "/twentysidedtale/?p=21365",
+        "title": "How to Forum",
+        "imageLink": "/resources/images/min/min-thumb_forum.jpg",
+        "summary": "Dear people of the internet: Please stop doing these horrible idiotic things when you talk to each other."
+    },
+    "83": {"link": "/twentysidedtale/?p=15131",
+        "title": "The Loot Lottery",
+        "imageLink": "/resources/images/min/min-thumb_lottery.jpg",
+        "summary": "What makes the gameplay of Borderlands so addictive for some, and what does that have to do with slot machines?"
+    },
+    "84": {"link": "/twentysidedtale/?p=14708",
+        "title": "Joker",
+        "imageLink": "/resources/images/min/min-thumb_joker.jpg",
+        "summary": "Did you anticipate the big plot twist of Batman: Arkham City? Here's all the ways the game hid that secret from you while also rubbing your nose in it."
+    },
+    "85": {"link": "/twentysidedtale/?p=15395",
+        "title": "Mass Effect 3 Ending Deconstruction",
+        "imageLink": "/resources/images/min/min-thumb_me3.jpg",
+        "summary": "Did you dislike the ending to the Mass Effect trilogy? Here's my list of where it failed logically, thematically, and tonally."
+    },
+    "86": {"link": "/twentysidedtale/?p=945",
+        "title": "The Plot-Driven Door",
+        "imageLink": "/resources/images/min/min-thumb_plotdoor.jpg",
+        "summary": "You know how videogames sometimes do that thing where it's preposterously hard to go through a simple door? This one is really bad."
+    },
+    "87": {"link": "/twentysidedtale/?p=1084",
+        "title": "Grand Theft Railroad",
+        "imageLink": "/resources/images/min/min-thumb_lcs.jpg",
+        "summary": "Grand Theft Auto is a lousy, cheating jerk of a game."
+    },
+    "88": {"link": "/twentysidedtale/?p=1861",
+        "title": "PC Gaming Golden Age",
+        "imageLink": "/resources/images/min/min-thumb_golden.jpg",
+        "summary": "It's not a legend. It was real. There was a time before DLC. Before DRM. Before crappy ports. It was glorious."
+    },
+    "89": {"link": "/twentysidedtale/?p=1828",
+        "title": "Games and the Fear of Death",
+        "imageLink": "/resources/images/min/min-thumb_scary.jpg",
+        "summary": "Why killing you might be the least scary thing a game can do."
+    },
+    "90": {"link": "/twentysidedtale/?p=16580",
+        "title": "Game at the Bottom",
+        "imageLink": "/resources/images/min/min-thumb_hotbar.jpg",
+        "summary": "Why spend millions on visuals that are just a distraction from the REAL game of hotbar-watching?"
+    },
+    "91": {"link": "/twentysidedtale/?p=17585",
+        "title": "Trusting the System",
+        "imageLink": "/resources/images/min/min-thumb_agent.jpg",
+        "summary": "How do you know the rules of the game are what the game claims? More importantly, how do the DEVELOPERS know?"
+    },
+    "92": {"link": "/twentysidedtale/?p=1597",
+        "title": "Starcraft: Bot Fight",
+        "imageLink": "/resources/images/min/min-thumb_starcraft.jpg",
+        "summary": "Let's do some scripting to make the Starcraft AI fight itself, and see how smart it is. Or isn't."
+    },
+    "93": {"link": "/twentysidedtale/?p=26985",
+        "title": "What is Piracy?",
+        "imageLink": "/resources/images/min/min-thumb_ship.jpg",
+        "summary": "It seems like a simple question, but it turns out everyone has a different idea of right and wrong in the digital world."
+    },
+    "94": {"link": "/twentysidedtale/?p=221",
+        "title": "Self-Balancing Gameplay",
+        "imageLink": "/resources/images/min/min-thumb_kotor.jpg",
+        "summary": "There's a wonderful way to balance difficulty in RPGs, and designers try to prevent it. For some reason."
+    },
+    "95": {"link": "/twentysidedtale/?p=29624",
+        "title": "Why The Christmas Shopping Season is Worse Every Year",
+        "imageLink": "/resources/images/min/min-thumb_christmas.jpg",
+        "summary": "Everyone hates black Friday sales. Even retailers! So why does it exist?"
+    },
+    "96": {"link": "/twentysidedtale/?p=25227",
+        "title": "The Gradient of Plot Holes",
+        "imageLink": "/resources/images/min/min-thumb_plot_hole.jpg",
+        "summary": "Most stories have plot holes. The failure isn't that they exist, it's when you notice them while immersed in the story."
+    },
+    "97": {"link": "/twentysidedtale/?p=7556",
+        "title": "What Does a Robot Want?",
+        "imageLink": "/resources/images/min/min-thumb_robot.jpg",
+        "summary": "No, self-aware robots aren't going to turn on us, Skynet-style. Not unless we designed them to."
+    },
+    "98": {"link": "/twentysidedtale/?p=31624",
+        "title": "The Opportunity Crunch",
+        "imageLink": "/resources/images/min/min-thumb_la_noire.jpg",
+        "summary": "No, brutal, soul-sucking, marriage-destroying crunch mode in game development isn't a privilege or an opportunity. It's idiocy."
+    },
+    "99": {"link": "/twentysidedtale/?p=31667",
+        "title": "In Defense of Crunch",
+        "imageLink": "/resources/images/min/min-thumb_crunch.jpg",
+        "summary": "Crunch-mode game development isn't good, but sometimes it happens for good reasons."
+    },
+    "100": {"link": "/twentysidedtale/?p=34307",
+        "title": "Lost Laughs in Leisure Suit Larry",
+        "imageLink": "/resources/images/min/min-thumb_larry.jpg",
+        "summary": "Why was this classic adventure game so funny in the 80's, and why did it stop being funny?"
+    },
+    "101": {"link": "/twentysidedtale/?p=33711",
+        "title": "The Biggest Game Ever",
+        "imageLink": "/resources/images/min/min-thumb_biggest_game.jpg",
+        "summary": "Just how big IS No Man's Sky? What if you made a map of all of its landmass? How big would it be?"
+    },
+    "102": {"link": "/twentysidedtale/?p=32170",
+        "title": "Marvel",
+        "imageLink": "/resources/images/min/min-thumb_civil_war.jpg",
+        "summary": "Team Cap or Team Iron Man? More importantly, what basis would you use for making that decision?"
+    },
+    "103": {"link": "/twentysidedtale/?cat=287",
+        "title": "The Diecast",
+        "imageLink": "/resources/images/min/min-thumb_diecast.jpg",
+        "summary": "A weekly podcast where we discuss games, technology, and comics. And sometimes wrestling."
+    },
+    "104": {"link": "https://www.youtube.com/watch?v=uQrC_C6SexI",
+        "title": "Bowlercoaster",
+        "imageLink": "/resources/images/min/min-thumb_bowlercoaster.jpg",
+        "summary": "Two minutes of fun at the expense of a badly-run theme park."
+    },
+    "105": {"link": "https://www.youtube.com/watch?v=FyQoD4_ycDs",
+        "title": "Push the Button!",
+        "imageLink": "/resources/images/min/min-thumb_push_the_button.jpg",
+        "summary": "Scenes from Half-Life 2:Episode 2, showing Gordon Freeman being a jerk. "
+    },
+    "106": {"link": "/twentysidedtale/?p=179",
+        "title": "D&D Campaign",
+        "imageLink": "/resources/images/min/min-thumb_dnd.jpg",
+        "summary": "WAY back in 2005, I wrote about a D &D campaign I was running. The campaign is still there, in the bottom-most strata of the archives."
+    },
+    "107": {"link": "/twentysidedtale/?p=24042",
+        "title": "Bad and Wrong Music Lessons",
+        "imageLink": "/resources/images/min/min-thumb_music.jpg",
+        "summary": "A music lesson for people who know nothing about music, from someone who barely knows anything about music."
+    },
+    "108": {"link": "/twentysidedtale/?p=25458",
+        "title": "Project Button Masher",
+        "imageLink": "/resources/images/min/min-thumb_keyboard.jpg",
+        "summary": "I teach myself music composition by imitating the style of various videogame soundtracks. How did it turn out? Listen for yourself."
+    },
+    "109": {"link": "https://soundcloud.com/shamusyoung/tracks",
+        "title": "My Music",
+        "imageLink": "/resources/images/min/min-thumb_music2.jpg",
+        "summary": "Do you like electronic music? Do you like free stuff? Are you okay with amateur music from someone who's learning? Yes? Because that's what this is."
+    }
+}
+
